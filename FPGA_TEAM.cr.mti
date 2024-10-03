@@ -1,0 +1,246 @@
+C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/vDFFe.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/vDFFe.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFFe
+
+Top level modules:
+	vDFFe
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/FSM_retrieve_ROM_data.sv {1 {vlog -work work -sv -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\FSM_retrieve_ROM_data.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM_retrieve
+
+Top level modules:
+	FSM_retrieve
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/QPSK_Modulator_Baseband.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/QPSK_Modulator_Baseband.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module QPSK_Modulator_Baseband
+
+Top level modules:
+	QPSK_Modulator_Baseband
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_SYNC_FIFO.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_SYNC_FIFO.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_SYNC_FIFO
+
+Top level modules:
+	Altera_UP_SYNC_FIFO
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Clock_Edge.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Clock_Edge.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_Clock_Edge
+
+Top level modules:
+	Altera_UP_Clock_Edge
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/state_tx_rx.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/state_tx_rx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/AWGN_Channel.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/AWGN_Channel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module noise_state2
+
+Top level modules:
+	noise_state2
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_In_Deserializer.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_In_Deserializer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_Audio_In_Deserializer
+
+Top level modules:
+	Altera_UP_Audio_In_Deserializer
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_Out_Serializer.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_Out_Serializer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_Audio_Out_Serializer
+
+Top level modules:
+	Altera_UP_Audio_Out_Serializer
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_LCM_Auto_Initialize.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_LCM_Auto_Initialize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_I2C_LCM_Auto_Initialize
+
+Top level modules:
+	Altera_UP_I2C_LCM_Auto_Initialize
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/ROM_MEM_bb.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/ROM_MEM_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ROM_MEM
+
+Top level modules:
+	ROM_MEM
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Rand_Int.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Rand_Int.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Rand_Int
+-- Compiling module D_FF
+
+Top level modules:
+	Rand_Int
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_DC_Auto_Initialize.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_DC_Auto_Initialize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_I2C_DC_Auto_Initialize
+
+Top level modules:
+	Altera_UP_I2C_DC_Auto_Initialize
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/clock_generator.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/clock_generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock_generator
+
+Top level modules:
+	clock_generator
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Slow_Clock_Generator.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Slow_Clock_Generator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_Slow_Clock_Generator
+
+Top level modules:
+	Altera_UP_Slow_Clock_Generator
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/noise_state_tb.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/noise_state_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/tx_rx_filter/Rx.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/tx_rx_filter/Rx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Rx
+
+Top level modules:
+	Rx
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_Bit_Counter.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_Audio_Bit_Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_Audio_Bit_Counter
+
+Top level modules:
+	Altera_UP_Audio_Bit_Counter
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_decoder_tb.v {1 {vlog -work work -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\Hamming_decoder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Hamming_decoder_tb
+
+Top level modules:
+	Hamming_decoder_tb
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Rand_Int_tb.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Rand_Int_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Rand_Int_tb
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/ROM_MEM.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/ROM_MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ROM_MEM
+
+Top level modules:
+	ROM_MEM
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/sqrt_bb.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/sqrt_bb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sqrt
+
+Top level modules:
+	sqrt
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/QPSK_Demodulator_Baseband.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/QPSK_Demodulator_Baseband.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module QPSK_Demodulator_Baseband
+
+Top level modules:
+	QPSK_Demodulator_Baseband
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/tx_rx_filter/Tx.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/tx_rx_filter/Tx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Tx
+
+Top level modules:
+	Tx
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_encoder_tb.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_encoder_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Hamming_encoder_tb
+
+Top level modules:
+	Hamming_encoder_tb
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/noise_state.v {1 {vlog -work work -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\noise_state.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module noise_state
+
+Top level modules:
+	noise_state
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_decoder.v {1 {vlog -work work -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\Hamming_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Hamming_decoder
+
+Top level modules:
+	Hamming_decoder
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/part2fsm_wfilter.sv {1 {vlog -work work -sv -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\part2fsm_wfilter.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fsm_wfilter
+
+Top level modules:
+	fsm_wfilter
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/audio_codec.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/audio_codec.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module audio_codec
+
+Top level modules:
+	audio_codec
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/audio_and_video_config.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/audio_and_video_config.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module audio_and_video_config
+
+Top level modules:
+	audio_and_video_config
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/PLL.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/PLL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PLL
+
+Top level modules:
+	PLL
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_encoder.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Hamming_encoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Hamming_encoder
+
+Top level modules:
+	Hamming_encoder
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/FSM_input_RAM_data.sv {1 {vlog -work work -sv -stats=none {C:\Users\ChrisRA\Desktop\ELEC_391_Final\FPGA_TEAM\FSM_input_RAM_data.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM_input
+
+Top level modules:
+	FSM_input
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_AV_Auto_Initialize.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C_AV_Auto_Initialize.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_I2C_AV_Auto_Initialize
+
+Top level modules:
+	Altera_UP_I2C_AV_Auto_Initialize
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/sqrt.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/sqrt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sqrt
+
+Top level modules:
+	sqrt
+
+} {} {}} C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C.v {1 {vlog -work work -stats=none C:/Users/ChrisRA/Desktop/ELEC_391_Final/FPGA_TEAM/Altera_UP_I2C.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_I2C
+
+Top level modules:
+	Altera_UP_I2C
+
+} {} {}}
